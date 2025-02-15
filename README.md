@@ -1,14 +1,39 @@
-- 👋 Hi, I’m @krushnapatil18
-- 👀 I’m interested in Coding and developing
-- 🌱 I’m currently learning Android App Development 
-- 💞️ I’m looking to collaborate on Android projects or coding challenges
-- 📫 How to reach me: [ krushakk2004@gmail.com ]
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving complex problems with simple code solutions!
-- <img src="https://raw.githubusercontent.com/krushnapatil18/krushnapatil18/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" height="200" />
 
+  <h2>Hi there! 👋 I'm <strong>Krushna Patil</strong></h2>
+  <h4>🚀 Mobile App & Frontend Developer | 💡 Passionate about UI/UX & Scalable Solutions</h4>
+</div>
 
-<!---
-krushnapatil18/krushnapatil18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🚀 **Tech Stack & Tools**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,js,react,html,css,firebase,git" height="45" />
+</div>
+
+---
+
+### 📊 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krushnapatil18&show_icons=true&theme=dracula&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushnapatil18&layout=compact&theme=dracula&hide_border=true" height="180" />
+</div>
+
+---
+
+### 🔗 **Connect with Me**
+<div align="center">
+  <a href="https://github.com/krushnapatil18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" /></a>
+  <a href="https://www.linkedin.com/in/krushnapatil18"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
+  <a href="https://www.instagram.com/krxnaptl18"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" /></a>
+  <a href="https://www.leetcode.com/krushnapatil18"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="35" /></a>
+  <a href="mailto:krushnakk2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>
+</div>
+
+---
+
+### 🎯 **Current Focus**
+- 📱 Advancing my skills in **Android Development**  
+- 🌐 Exploring **JavaScript & Web Technologies**  
+- 🏆 Competitive coding on **LeetCode & Code360**  
