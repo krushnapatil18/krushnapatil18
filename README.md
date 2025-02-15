@@ -5,6 +5,8 @@
 - 📫 How to reach me: [ krushakk2004@gmail.com ]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving complex problems with simple code solutions!
+- <img src="https://raw.githubusercontent.com/krushnapatil18/krushnapatil18/output/snake.svg" alt="Snake animation" />
+
 
 <!---
 krushnapatil18/krushnapatil18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
