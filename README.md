@@ -17,7 +17,8 @@
 ### 📊 **GitHub Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krushnapatil18&show_icons=true&theme=dracula&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushnapatil18&layout=compact&theme=dracula&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krushnapatil18&show_icons=true&theme=dracula&hide_border=true&cache_seconds=200" height="180" />
+
 </div>
 
 ---
