@@ -1,4 +1,7 @@
 <div align="center">
+ <p align="left"> 
+   <img src="https://komarev.com/ghpvc/?username=krushnapatil&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="krushnapatil" /> 
+</p>
   <img src="https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" height="200" />
 
   <h2>Hi there! 👋 I'm <strong>Krushna Patil</strong></h2>
