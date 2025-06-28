@@ -11,10 +11,7 @@
 ---
 
 ### 🚀 **Tech Stack & Tools**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,js,react,html,css,firebase,git" height="45" />
-</div>
-
+<div align="center"> <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,js,react,html,css,firebase,git,nodejs,express,mongodb,vscode,github" height="45" /> </div>
 ---
 
 ### 📊 **GitHub Stats**
