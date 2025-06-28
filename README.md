@@ -5,7 +5,7 @@
   <img src="https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" height="200" />
 
   <h2>Hi there! 👋 I'm <strong>Krushna Patil</strong></h2>
-  <h4>🚀 Mobile App & Frontend Developer | 💡 Passionate about UI/UX & Scalable Solutions</h4>
+  <h4>🚀 Mobile App & MERN Stack Developer | 💡 Passionate about UI/UX & Scalable Solutions</h4>
 </div>
 
 ---
