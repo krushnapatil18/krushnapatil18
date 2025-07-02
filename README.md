@@ -14,14 +14,6 @@
 <div align="center"> <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,js,react,html,css,firebase,git,nodejs,express,mongodb,vscode,github" height="45" /> </div>
 ---
 
-### 📊 **GitHub Stats**
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=krushnapatil18&show_icons=true&theme=dracula&hide_border=true&cache_seconds=200" height="180" />
-
-</div>
-
----
 
 ### 🔗 **Connect with Me**
 <div align="center">
