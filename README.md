@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" height="180" />
+  <img src="https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" height="180" alt="Welcome GIF" />
   <h2>Hi there 👋, I'm <strong>Krushna Patil</strong></h2>
   <h4>💻 Software Developer | 📱 Android & MERN Stack | 🎨 UI/UX Enthusiast</h4>
-  
 </div>
 
 ---
 
 ### 🌐 Portfolio
-🎯 Explore my work & projects:  
-🔗 [My Portfolio](https://my-portfolio-krushnapatil18s-projects.vercel.app/)
+🎯 Check out my personal projects and work:  
+🔗 [Visit My Portfolio](https://my-portfolio-krushnapatil18s-projects.vercel.app/)
+
 ---
 
 ### 🚀 Tech Stack & Tools
@@ -21,23 +21,23 @@
 
 ### 👨‍💻 About Me
 - 🎓 Final Year B.Tech (Computer Engineering) @ NMIMS  
-- 💡 Passionate about building scalable & user-centric applications  
-- 📲 Experienced in Android Development with Java & Kotlin  
-- 🌐 Skilled in full-stack web development (MERN)  
-- 🎨 Strong eye for UI/UX design and usability  
-- 🧠 DSA practice on LeetCode, GFG & Code360
+- 💡 Passionate about creating scalable and user-friendly applications  
+- 📲 Android developer experienced with Java, Kotlin & Jetpack Compose  
+- 🌐 Full Stack Developer (MERN Stack: MongoDB, Express, React, Node.js)  
+- 🎨 UI/UX Enthusiast with hands-on design experience using Figma & Tailwind CSS  
+- 🧠 Regular DSA practice on LeetCode, GFG, and Code360  
 
 ---
 
-### 🎯 Currently Focusing On
-- 🔧 Building real-world Android apps using **Jetpack Compose + Firebase**  
-- 🌍 Strengthening **React + Node.js + MongoDB** skills  
-- 💼 Preparing for software development roles through projects and coding challenges  
-- 📈 Consistently pushing code and contributing to GitHub
+### 🎯 Currently Working On
+- 🔧 Real-world Android apps using **Jetpack Compose + Firebase**  
+- 🌍 Strengthening full stack skills using **React + Node.js + MongoDB**  
+- 💼 Preparing for software roles through internships & hands-on projects  
+- ⚡ Consistently contributing to GitHub and learning new technologies  
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krushnapatil18&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushnapatil18&layout=compact&theme=tokyonight" height="165" />
