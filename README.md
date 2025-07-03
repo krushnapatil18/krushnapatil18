@@ -9,8 +9,7 @@
 
 ### 🌐 Portfolio
 🎯 Explore my work & projects:  
-🔗 [my-portfolio-krushnapatil18s-projects.vercel.app](https://my-portfolio-krushnapatil18s-projects.vercel.app/)
-
+🔗 [My Portfolio](https://my-portfolio-krushnapatil18s-projects.vercel.app/)
 ---
 
 ### 🚀 Tech Stack & Tools
