@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" height="180" />
   <h2>Hi there 👋, I'm <strong>Krushna Patil</strong></h2>
   <h4>💻 Software Developer | 📱 Android & MERN Stack | 🎨 UI/UX Enthusiast</h4>
-  <img src="https://komarev.com/ghpvc/?username=krushnapatil18&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  
 </div>
 
 ---
